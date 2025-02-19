@@ -262,7 +262,7 @@ $location = array("Dhaka","Chittagong","Rajshahi","Rangpur","Barishal","Khulna",
         <div class="container">
             <div class="heading">
                 <h2>Web Code Gallery</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+                <p>Our students got success by completing our courses. And they got their preferred job by their skills</p>
             </div>
             <div class="row">
                 <div data-js="hero-demo">
